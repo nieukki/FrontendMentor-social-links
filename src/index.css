@@ -16,3 +16,11 @@
   font-family: Inter;
   src: url(../public/assets/fonts/static/Inter-SemiBold.ttf);
 }
+
+@layer components {
+  html,
+  body,
+  #root {
+    @apply h-full;
+  }
+}

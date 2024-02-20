@@ -8,7 +8,7 @@ import LinksSection from "./components/LinksSection";
 
 const App = () => {
   return (
-    <section className="w-screen h-screen flex justify-center items-center bg-offBlackColor font-Inter">
+    <section className="w-screen h-full flex justify-center items-center bg-offBlackColor font-Inter overflow-hidden py-4 ">
       <Content>
         <CircleImage />
         <NameHeading />
