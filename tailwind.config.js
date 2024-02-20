@@ -6,9 +6,15 @@ module.exports = {
       fontFamily: {
         Inter: "Inter",
       },
-      colors: {},
+      colors: {
+        greenColor: "hsl(75, 94%, 57%)",
+        whiteColor: "hsl(0, 0%, 100%)",
+        greyColor: "hsl(0, 0%, 20%)",
+        darkGreyColor: "hsl(0, 0%, 12%)",
+        offBlackColor: "hsl(0, 0%, 8%)",
+      },
       screens: {
-        xs: "375px",
+        ds: "1440px",
       },
     },
   },
