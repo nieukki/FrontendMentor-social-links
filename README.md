@@ -9,4 +9,4 @@ Description:
    - TailwindCSS
 
 **Screenshot:**
-![Preview of site](/assets/images/social-links.png)
+![Preview of site](/social-links.png)
