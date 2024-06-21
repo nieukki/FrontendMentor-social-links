@@ -1,6 +1,6 @@
 # 📘 Social Links - Frontend Mentor
 
-Description:
+**Description:**
 - It is an easy responsive, Frontend project from https://www.frontendmentor.io/
 - I did this project to practice my basic skills in React.js and TailwindCSS.
 
