@@ -10,3 +10,6 @@ Description:
 
 **Screenshot:**
 </br> ![Preview of site](/social-links.png)
+
+**Site Preview**
+https://loquacious-genie-608554.netlify.app/
