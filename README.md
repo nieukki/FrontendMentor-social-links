@@ -1,4 +1,4 @@
-📘 #Social Links - Frontend Mentor
+# 📘 Social Links - Frontend Mentor
 
 Description:
 - It is an easy responsive, Frontend project from https://www.frontendmentor.io/
@@ -7,4 +7,6 @@ Description:
 **Used technologies:**
    - React.js
    - TailwindCSS
-   
+
+**Screenshot:**
+![Preview of site](/assets/images/social-links.png)
